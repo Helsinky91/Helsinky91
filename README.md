@@ -1,7 +1,5 @@
 👋 Hi, I’m Helena!
 
-Recently changing career path due the curiosity created on the last job experience, where got a hint on HTML, CSS and Javascript, therefore I decided to study about these languages and fell in love with coding. 
-
-👀 Currently seeking for a job opportunity where to keep improving and luckily learn a few more languages!
+I recently changed a long carrear in Hospitality for one in coding, having knowledge of MERN, Java and SQL. Now practising MERN with some passion projects while working with Java for a big company.
 
 📫 How to reach me: https://www.linkedin.com/in/helena-saborit/
